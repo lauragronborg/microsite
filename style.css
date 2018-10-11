@@ -1,31 +1,41 @@
 /*Style.css - til dine custom styles*/
 
-img{
+* {
+    background: #b5bcbc;
+}
+
+img {
     width: 100%;
 }
 
-#voresis{
+#voresis {
     text-align: center;
 }
-#voresis .col-xs-12{
+
+#voresis .col-xs-12 {
     margin-bottom: 2em;
 }
 
-#tilbud div{
-        margin-bottom: 2em;
+#tilbud div {
+    margin-bottom: 2em;
 }
+
 section {
     padding: 2em 0;
 }
-#hero{
+
+#hero {
     background-color: azure;
 }
-#voresis{
+
+#voresis {
     background-color: lightyellow;
 }
-#tilbud{
+
+#tilbud {
     background-color: burlywood;
 }
-#omos{
+
+#omos {
     background-color: lavender;
 }
