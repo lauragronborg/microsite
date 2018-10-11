@@ -21,14 +21,17 @@
                 width: 100%;
             }
 
-            #voresis {
+            #event {
                 text-align: center;
             }
 
-            #opskrift/fordele {
+            #opskrift {
                 text-align: center;
             }
 
+            #opskrift img {
+                padding: 20px;
+            }
 
             #voresis .col-xs-12 {
                 margin-bottom: 2em;
