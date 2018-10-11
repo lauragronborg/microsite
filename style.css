@@ -1,25 +1,27 @@
-/*Style.css - til dine custom styles*/
+            /*Style.css - til dine custom styles*/
 
-* {
-    background: #b5bcbc;
-}
-
-img {
-    width: 100%;
-}
-
-#voresis {
-    text-align: center;
-}
-
-#voresis .col-xs-12 {
-    margin-bottom: 2em;
-}
-
-#tilbud div {
-    margin-bottom: 2em;
-}
-
-section {
-    padding: 2em 0;
-}
+        p {
+            font-family: h1,
+            h2,
+            h3,
+            h4 {
+                font-family: 'Amatic SC';
+            }
+            * {
+                background: #b5bcbc;
+            }
+            img {
+                width: 100%;
+            }
+            #voresis {
+                text-align: center;
+            }
+            #voresis .col-xs-12 {
+                margin-bottom: 2em;
+            }
+            #tilbud div {
+                margin-bottom: 2em;
+            }
+            section {
+                padding: 2em 0;
+            }
