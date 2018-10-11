@@ -29,10 +29,18 @@
                 margin-bottom: 2em;
             }
 
-            #tilbud div {
-                margin-bottom: 2em;
+            #hero {
+                padding: 4em 0;
             }
 
             section {
                 padding: 2em 0;
+            }
+
+            #navbar {
+                background: rgba(234, 240, 233, 0.7)
+            }
+
+            #navbar img {
+                width: 50%;
             }
