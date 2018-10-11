@@ -55,12 +55,19 @@
 
 
             footer {
-                padding: 2em 10em;
+                padding: 2em 0;
                 background: rgba(234, 240, 233);
-                text-align: center;
+
             }
 
-            footer img {
-                width: 10%;
+            #socialeikoner img {
+                width: 40px;
+                height: auto;
+                padding-bottom: 20px;
+            }
+
+            #logo img {
+                text-align: left;
+                width: 150px;
                 height: auto;
             }
