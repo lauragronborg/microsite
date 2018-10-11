@@ -1,6 +1,6 @@
 /*Style.css - til dine custom styles*/
 
-* {
+body {
     background: #b5bcbc;
 }
 
@@ -22,20 +22,4 @@ img {
 
 section {
     padding: 2em 0;
-}
-
-#hero {
-    background-color: azure;
-}
-
-#voresis {
-    background-color: lightyellow;
-}
-
-#tilbud {
-    background-color: burlywood;
-}
-
-#omos {
-    background-color: lavender;
 }
