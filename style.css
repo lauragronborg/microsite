@@ -1,9 +1,16 @@
             /*Style.css - til dine custom styles*/
 
             p,
-            ul {
+            ul,
+                {
                 font-family: 'Oswald';
                 font-weight: 100;
+            }
+
+            button {
+                font-family: 'Oswald';
+                font-weight: 100;
+                margin-bottom: 20px;
             }
 
             h1,
