@@ -11,6 +11,12 @@
             h3,
             h4 {
                 font-family: 'Amatic SC';
+                padding-bottom: 20px;
+            }
+
+            h2 {
+                font-size: 40px;
+                font-weight: 600;
             }
 
             body {
