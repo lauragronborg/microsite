@@ -1,8 +1,7 @@
             /*Style.css - til dine custom styles*/
 
             p,
-            ul,
-                {
+            ul {
                 font-family: 'Oswald';
                 font-weight: 100;
             }
@@ -20,6 +19,7 @@
                 font-family: 'Amatic SC';
                 padding-bottom: 20px;
             }
+
 
             h2 {
                 font-size: 40px;
@@ -70,17 +70,21 @@
             footer {
                 padding: 2em 0;
                 background: rgba(234, 240, 233);
-
+                text-align: center;
+                font-family: 'Amatic SC';
             }
 
             #socialeikoner img {
-                width: 40px;
+                width: 20px;
                 height: auto;
-                padding-bottom: 20px;
             }
 
             #logo img {
-                text-align: left;
-                width: 150px;
+                width: 100px;
                 height: auto;
+                padding-top: 20px;
+            }
+
+            #om_moringa {
+                padding-bottom: 20px;
             }
